@@ -1,16 +1,56 @@
-# React + Vite
+🌟 Stitee Pragyan Deo - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This portfolio showcases my projects, technical skills, and journey as a Full-Stack Developer.
+## 🚀 Tech Stack
 
-Currently, two official plugins are available:
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 & CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern and responsive UI
+- Projects showcase with tech stack
+- Resume download functionality
+- Smooth scrolling navigation
+- Clean and professional design
 
-## Expanding the ESLint configuration
+---
+## 📂 Portfolio Sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Hero Section
+- About Me
+- Skills
+- Projects
+- Education
+- Certifications
+- Contact
+
+---
+## 📄 Resume
+
+My resume is available for download directly from the portfolio.
+
+## 🌐 Live Demo
+
+(Will be added after deployment on Vercel)
+
+---## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the repository Navigate to project folder
+cd portfolio-stitee     
+Install dependencies
+npm install
+
+Run the development server
+npm run dev
+🌍 Local Development
+
+After running the project, open your browser and go to:
+
+http://localhost:5173/
