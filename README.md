@@ -37,8 +37,7 @@ This portfolio showcases my projects, technical skills, and journey as a Full-St
 My resume is available for download directly from the portfolio.
 
 ## 🌐 Live Demo
-
-(Will be added after deployment on Vercel)
+https://portfolio-stitee-7j2k.vercel.app/
 
 ---## 🛠️ Installation & Setup
 
